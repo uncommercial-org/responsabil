@@ -1,0 +1,19 @@
+# Hugo
+public/
+static/admin/
+resources/
+.hugo_build.lock
+go.work
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Dependencies (optional - managed via Hugo modules)
+# themes/
