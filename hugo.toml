@@ -2,10 +2,14 @@ baseURL = "https://responsabil.uncommercial.org/"
 title = "Responsabil"
 languageCode = "ro"
 defaultContentLanguage = "ro"
-paginate = 10
 enableRobotsTXT = true
 enableEmoji = true
 hasCJKLanguage = false
+
+[pagination]
+  disableAliases = false
+  pagerSize = 10
+  path = 'pagina'
 
 [module]
   [[module.imports]]
