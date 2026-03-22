@@ -13,8 +13,6 @@ showToc: true
 tocOpen: false
 ---
 
-![privacy](https://cdn.cybercalm.org/wp-content/uploads/2024/06/19170913/privacy.webp)
-
 Regimul incognito (sau modul anonim) din browserul tău nu este atât de confidențial pe cât ar putea părea la prima vedere. Deși acesta împiedică browserul să salveze istoricul vizitelor și fișierele cookie local pe dispozitiv, aceasta este doar o mică parte din ceea ce ar trebui, teoretic, să protejeze. În realitate, rămâneți în continuare vulnerabil la numeroase riscuri pentru confidențialitatea și securitatea dumneavoastră online. Să analizăm cele mai comune amenințări de care ar trebui să țineți cont.
 
 **TEZE CHEIE**
@@ -25,11 +23,11 @@ Regimul incognito (sau modul anonim) din browserul tău nu este atât de confide
 
 ## Ce face de fapt modul incognito?
 
-Când activați navigarea privată, browserul trece într-un mod special în care se creează o sesiune de navigare temporară. Niciuna dintre datele locale salvate nu ajunge pe site-urile web, tot ceea ce faceți nu va fi înregistrat în [istoricul browserului](https://cybercalm.org/yak-pryhovaty-slidy-svogo-perebuvannya-v-usih-brauzerah-instruktsiya/) și, când veți termina sesiunea de navigare privată, toate urmele activității dumneavoastră pe acel computer vor fi șterse.
+Când activați navigarea privată, browserul trece într-un mod special în care se creează o sesiune de navigare temporară. Niciuna dintre datele locale salvate nu ajunge pe site-urile web, tot ceea ce faceți nu va fi înregistrat în istoricul browserului și, când veți termina sesiunea de navigare privată, toate urmele activității dumneavoastră pe acel computer vor fi șterse.
 
 Acest lucru face ca navigarea privată să fie utilă pentru diverse lucruri, de exemplu, pentru a vă accesa contul bancar de pe un computer străin sau pentru a vă asigura că ceea ce vizualizați acum nu va influența reclamele pe care le veți vedea în viitor. Totuși, după cum veți vedea în curând, posibilitățile navigării private sunt destul de limitate.
 
-Există multe modalități diferite prin care serviciile online vă pot urmări identitatea fără a avea acces la datele locale, cum ar fi [fișierele cookie](https://cybercalm.org/yak-zablokuvaty-splyvayuchi-vikna-cookie/). De exemplu, dacă vă autentificați pe un site cu datele dumneavoastră de acces, site-ul respectiv știe oricum că sunteți dumneavoastră. În mod similar, [adresa IP](https://cybercalm.org/ip-adresy-statychni-vs-dynamichni/) rămâne vizibilă, astfel încât site-urile web vă cunosc locația aproximativă. Site-urile pot folosi, de asemenea, metode precum "[amprenta digitală](https://cybercalm.org/shho-take-tsyfrovi-vidbytky-brauzera/)" a browserului pentru a vă identifica.
+Există multe modalități diferite prin care serviciile online vă pot urmări identitatea fără a avea acces la datele locale, cum ar fi fișierele cookie. De exemplu, dacă vă autentificați pe un site cu datele dumneavoastră de acces, site-ul respectiv știe oricum că sunteți dumneavoastră. În mod similar, adresa IP rămâne vizibilă, astfel încât site-urile web vă cunosc locația aproximativă. Site-urile pot folosi, de asemenea, metode precum "amprenta digitală" a browserului pentru a vă identifica.
 
 ## De ce nu vă protejează modul incognito?
 
@@ -37,7 +35,7 @@ Există multe modalități diferite prin care serviciile online vă pot urmări 
 
 Modul de navigare privată nu ascunde activitatea dumneavoastră de furnizorul de internet. Deoarece tot traficul trece prin serverele furnizorului, acesta poate vedea în continuare ce site-uri vizitați, când faceți acest lucru și cât timp rămâneți pe ele. Prin urmare, dacă dorește, furnizorul dumneavoastră vă poate urmări obiceiurile de navigare pe web.
 
-Cum să vă protejați? O soluție simplă și eficientă este utilizarea unui [VPN](https://cybercalm.org/najkrashhi-merezhi-vpn-2022-roku/) (rețea privată virtuală). Un VPN criptează traficul de internet și îl direcționează printr-un server securizat, ceea ce face mult mai dificilă monitorizarea activității de către furnizor. Merită menționat că [VPN-urile au și ele limitările și riscurile lor potențiale](https://cybercalm.org/4-red-flag-v-politytsi-konfidentsijnosti-vpn/), așa că este important să alegeți un furnizor de servicii de încredere.
+Cum să vă protejați? O soluție simplă și eficientă este utilizarea unui VPN (rețea privată virtuală). Un VPN criptează traficul de internet și îl direcționează printr-un server securizat, ceea ce face mult mai dificilă monitorizarea activității de către furnizor. Merită menționat că VPN-urile au și ele limitările și riscurile lor potențiale, așa că este important să alegeți un furnizor de servicii de încredere.
 
 ### Alți utilizatori pot vedea fișierele descărcate de dumneavoastră
 
@@ -47,9 +45,9 @@ Deși browserul nu va înregistra aceste descărcări în istoricul său, atunci
 
 ### Administratorii de rețea pot în continuare să vă urmărească activitatea
 
-Folosiți modul privat la serviciu, la școală sau într-o [rețea Wi-Fi publică](https://cybercalm.org/yak-bezpechno-korystuvatysya-publichnym-wi-fi-porady-dlya-zahystu-vashyh-danyh/), crezând că activitatea dumneavoastră este ascunsă? Din păcate, nu este așa. Administratorii de rețea (de exemplu, departamentele IT ale companiilor sau administratorii rețelelor publice) au în continuare capacitatea de a vedea ce faceți online, chiar dacă folosiți modul incognito.
+Folosiți modul privat la serviciu, la școală sau într-o rețea Wi-Fi publică, crezând că activitatea dumneavoastră este ascunsă? Din păcate, nu este așa. Administratorii de rețea (de exemplu, departamentele IT ale companiilor sau administratorii rețelelor publice) au în continuare capacitatea de a vedea ce faceți online, chiar dacă folosiți modul incognito.
 
-Cum să rămâneți neobservat? După cum s-a menționat deja, o soluție este VPN-ul. VPN-ul creează un tunel criptat între dispozitivul dumneavoastră și internet, mascând activitatea. Totuși, în rețelele corporative sau educaționale, utilizarea VPN-ului poate fi adesea blocată. În acest caz, puteți încerca [Tor Browser](https://cybercalm.org/yak-korystuvatysya-brauzerom-tor-i-chomu-tse-potribno/), care direcționează traficul prin mai multe noduri criptate pentru o anonimitate sporită. Alternativ, unele browsere, cum ar fi Brave, oferă un mod privat cu suport Tor integrat.
+Cum să rămâneți neobservat? După cum s-a menționat deja, o soluție este VPN-ul. VPN-ul creează un tunel criptat între dispozitivul dumneavoastră și internet, mascând activitatea. Totuși, în rețelele corporative sau educaționale, utilizarea VPN-ului poate fi adesea blocată. În acest caz, puteți încerca Tor Browser, care direcționează traficul prin mai multe noduri criptate pentru o anonimitate sporită. Alternativ, unele browsere, cum ar fi Brave, oferă un mod privat cu suport Tor integrat.
 
 ### Extensiile de browser pot continua să colecteze datele dumneavoastră
 
@@ -63,11 +61,11 @@ Verificați setările extensiilor din browserul dumneavoastră. De exemplu, în 
 
 Există o concepție greșită conform căreia modul incognito oferă protecție împotriva amenințărilor online. În realitate, acesta nu vă protejează de site-urile web dăunătoare, descărcările periculoase sau scripturile malițioase. Dacă deschideți un site de phishing sau descărcați un fișier cu un virus în modul incognito, dispozitivul dumneavoastră va fi la fel de vulnerabil ca în timpul unei navigări obișnuite.
 
-De aceea, în timpul navigării private, este necesar să respectați toate [măsurile standard de securitate](https://cybercalm.org/10-porad-dlya-bezpechnogo-pereglyadu-veb-storinok/). Utilizați un antivirus de încredere, scanați fișierele și linkurile suspecte (de exemplu, folosind serviciul [VirusTotal](https://www.virustotal.com/)) și nu dezactivați [funcțiile de securitate încorporate ale browserului](https://cybercalm.org/zminit-tsi-nalashtuvannya-brauzera-yaknajshvidshe-shhob-zahistiti-svoyu-konfidentsijnist/). Fiți la fel de precauți în modul incognito ca și în timpul utilizării obișnuite a internetului.
+De aceea, în timpul navigării private, este necesar să respectați toate măsurile standard de securitate. Utilizați un antivirus de încredere, scanați fișierele și linkurile suspecte (de exemplu, folosind serviciul [VirusTotal](https://www.virustotal.com/)) și nu dezactivați funcțiile de securitate încorporate ale browserului. Fiți la fel de precauți în modul incognito ca și în timpul utilizării obișnuite a internetului.
 
 ### Site-urile web vă pot urmări și identifica în continuare
 
-Chiar și în modul privat, site-urile web pot determina adresa dumneavoastră IP și pot colecta alte informații despre dispozitiv (așa-numita „[amprentă digitală](https://cybercalm.org/shho-take-tsyfrovi-vidbytky-brauzera/)"), pentru a crea un profil de utilizator unic. Aceasta înseamnă că puteți vedea în continuare publicitate targetată, iar site-urile pot afla despre interesele dumneavoastră. Mai mult, dacă vă conectați la conturile dumneavoastră (de exemplu, Google, Facebook, Instagram) în timpul unei sesiuni incognito, activitatea dumneavoastră pe acele platforme va fi legată de profilul dumneavoastră.
+Chiar și în modul privat, site-urile web pot determina adresa dumneavoastră IP și pot colecta alte informații despre dispozitiv (așa-numita „amprentă digitală"), pentru a crea un profil de utilizator unic. Aceasta înseamnă că puteți vedea în continuare publicitate targetată, iar site-urile pot afla despre interesele dumneavoastră. Mai mult, dacă vă conectați la conturile dumneavoastră (de exemplu, Google, Facebook, Instagram) în timpul unei sesiuni incognito, activitatea dumneavoastră pe acele platforme va fi legată de profilul dumneavoastră.
 
 Deși este dificil să evitați complet o astfel de urmărire, aceasta poate fi redusă. Utilizați browsere orientate spre confidențialitate (de exemplu, Brave sau DuckDuckGo Privacy Browser). De asemenea, încercați să nu vă conectați la conturile principale în timpul navigării private, dacă nu este absolut necesar. De exemplu, pentru a viziona un videoclip pe YouTube sau un profil public de pe o rețea socială, adesea nu este nevoie de autorizare, iar acest lucru va ajuta la păstrarea anonimatului.
 
