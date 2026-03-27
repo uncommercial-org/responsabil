@@ -35,7 +35,7 @@ tvOS 26.4 și watchOS 26.4 au fost lansate cu remedieri pentru peste o duzină d
 
 ## **Nu a fost detectată nicio exploatare activă**
 
-Apple nu raportează nicio vulnerabilitate eliminată care să fi fost exploatată activ de atacatori. Informații detaliate despre fiecare remediere sunt disponibile pe pagina [buletinelor de securitate](https://support.apple.com/uk-ua/100100) a companiei.
+Apple nu raportează nicio vulnerabilitate eliminată care să fi fost exploatată activ de atacatori. Informații detaliate despre fiecare remediere sunt disponibile pe pagina [buletinelor de securitate](https://support.apple.com/ro-ro/100100) a companiei.
 
 Utilizatorilor li se recomandă să instaleze actualizările cât mai curând posibil prin **Configurări → General → Actualizare software**.
 
