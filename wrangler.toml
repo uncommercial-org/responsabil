@@ -1,5 +1,7 @@
 name = 'responsabil'
 compatibility_date = '2025-07-31'
+workers_dev = false
+preview_urls = false
 
 [build]
 command = 'chmod a+x build.sh && ./build.sh'

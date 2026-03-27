@@ -1,7 +1,7 @@
 ---
 title: "Samsung Galaxy S26 va primi suport AirDrop pentru schimbul de fișiere cu iPhone și Mac"
 date: 2026-03-24
-draft: true
+draft: false
 description: "Samsung adaugă suport AirDrop pentru Galaxy S26, permițând transferul direct de fișiere către iPhone și Mac prin Quick Share."
 categories: ["digital_life"]
 cover:

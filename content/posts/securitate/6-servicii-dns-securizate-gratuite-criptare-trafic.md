@@ -1,7 +1,7 @@
 ---
 title: "6 servicii DNS securizate și gratuite: cum să îți criptezi traficul de internet"
 date: 2026-03-23
-draft: true
+draft: false
 description: "Află cum să îți protejezi confidențialitatea online folosind servicii DNS securizate. Ghid pas cu pas pentru configurarea Google, Cloudflare, Quad9 și altele."
 categories: ["securitate"]
 cover:

@@ -1,7 +1,7 @@
 ---
 title: "FBI avertizează: serviciile secrete rusești piratează în masă Signal și WhatsApp"
 date: 2026-03-22
-draft: true
+draft: false
 description: "FBI avertizează despre campanii de phishing rusești care vizează utilizatorii Signal și WhatsApp pentru a fura conturi și a monitoriza comunicațiile private la nivel mondial."
 categories: ["securitate"]
 cover:

@@ -1,7 +1,7 @@
 ---
 title: "Apple a lansat iOS și macOS 26.4, reparând peste 80 de vulnerabilități"
 date: 2026-03-25
-draft: true
+draft: false
 description: "Apple a lansat actualizări de securitate pentru iOS, iPadOS și macOS, eliminând peste 80 de vulnerabilități în diverse componente, inclusiv WebKit și kernel."
 categories: ["digital_life"]
 cover:
