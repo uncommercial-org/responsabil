@@ -4,9 +4,10 @@ date: 2026-03-18
 draft: false
 description: "Unsprezece companii mari, inclusiv Google, Amazon și OpenAI, au semnat un acord pentru a partaja date despre modul în care escrocii le folosesc serviciile pentru a combate frauda online."
 categories: ["securitate"]
+tags: ["frauda online", "securitate cibernetică", "inteligență artificială", "giganți tech", "protecția consumatorilor"]
 cover:
   image: "images/cybercalm/gigantii-tehnologici-acord-combatere-frauda-online.webp"
-  alt: ""
+  alt: "Ilustrație cu logo-urile Google, Amazon și OpenAI reprezentând un pact global pentru combaterea fraudelor online."
   caption: ""
   relative: false
 showToc: true

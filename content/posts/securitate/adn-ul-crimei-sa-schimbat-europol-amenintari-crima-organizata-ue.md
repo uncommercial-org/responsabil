@@ -4,9 +4,10 @@ date: 2026-03-26
 draft: false
 description: "Europol a lansat raportul EU-SOCTA 2025, avertizând despre evoluția rețelelor criminale prin utilizarea AI, a criptomonedelor și a tacticilor hibride care subminează securitatea UE."
 categories: ["securitate"]
+tags: ["securitate cibernetică", "europol", "crimă organizată", "inteligență artificială", "amenințări hibride", "rapoarte ue"]
 cover:
   image: "images/cybercalm/adn-ul-crimei-sa-schimbat-europol-amenintari-crima-organizata-ue.webp"
-  alt: ""
+  alt: "Logo-ul Europol și elemente digitale reprezentând securitatea cibernetică și lupta împotriva crimei organizate în UE."
   caption: ""
   relative: false
 showToc: true

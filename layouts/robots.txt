@@ -1,0 +1,31 @@
+{{- /*
+  Vendored from PaperMod, extended to explicitly welcome AI/LLM crawlers
+  (GPTBot, ClaudeBot, PerplexityBot, Google-Extended, etc.) and point them at
+  the sitemap + llms.txt. "Disallow:" (empty) already allows everything; the
+  named blocks below make the intent explicit and future-proof.
+*/ -}}
+User-agent: *
+{{- if hugo.IsProduction | or (eq site.Params.env "production") }}
+Disallow:
+{{- else }}
+Disallow: /
+{{- end }}
+
+# AI / LLM crawlers are welcome to index this content.
+User-agent: GPTBot
+Disallow:
+User-agent: OAI-SearchBot
+Disallow:
+User-agent: ChatGPT-User
+Disallow:
+User-agent: ClaudeBot
+Disallow:
+User-agent: Claude-Web
+Disallow:
+User-agent: PerplexityBot
+Disallow:
+User-agent: Google-Extended
+Disallow:
+
+# LLM-friendly index: {{ "llms.txt" | absURL }}
+Sitemap: {{ "sitemap.xml" | absURL }}

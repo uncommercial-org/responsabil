@@ -4,9 +4,10 @@ date: 2026-06-04
 draft: false
 description: "Mac mini este cel mai accesibil computer desktop Apple. Află cine are nevoie de el, ce performanțe oferă cipurile M4 și M4 Pro și dacă este alegerea potrivită pentru tine."
 categories: ["digital_life"]
+tags: ["mac mini", "apple silicon", "procesor m4", "computer desktop", "gadgeturi apple", "tehnologie"]
 cover:
   image: "images/cybercalm/cine-are-nevoie-de-mac-mini-si-de-ce.jpg"
-  alt: ""
+  alt: "Noul Apple Mac mini cu procesor M4, un computer desktop ultra-compact și performant din aluminiu."
   caption: ""
   relative: false
 showToc: true

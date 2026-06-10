@@ -4,9 +4,10 @@ date: 2026-03-16
 draft: false
 description: "Un nou studiu internațional realizat de Hiya arată că 25% dintre utilizatori au primit apeluri deepfake în ultimul an, semnalând o creștere alarmantă a fraudelor prin inteligență artificială."
 categories: ["securitate"]
+tags: ["deepfake", "frauda telefonica", "inteligenta artificiala", "securitate cibernetica", "studiu hiya"]
 cover:
   image: "images/cybercalm/unul-din-patru-respondenti-a-primit-un-apel-deepfake-studiu-hiya.webp"
-  alt: ""
+  alt: "Smartphone afișând o undă sonoră digitală, simbolizând un apel fraudulos prin deepfake de voce."
   caption: ""
   relative: false
 showToc: true

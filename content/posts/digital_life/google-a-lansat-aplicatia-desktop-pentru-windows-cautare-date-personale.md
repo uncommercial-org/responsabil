@@ -4,9 +4,10 @@ date: 2026-04-20
 draft: false
 description: "Google a lansat aplicația desktop pentru Windows, oferind acces rapid la Search, Gemini și Lens direct din sistemul de operare, cu integrare Gmail și Drive pentru o productivitate sporită."
 categories: ["digital_life"]
+tags: ["google desktop", "windows", "aplicație google", "inteligență artificială", "productivitate", "gemini"]
 cover:
   image: "images/cybercalm/google-a-lansat-aplicatia-desktop-pentru-windows-cautare-date-personale.webp"
-  alt: ""
+  alt: "Interfața aplicației Google Desktop pentru Windows afișând funcțiile Gemini și Lens peste ecranul principal."
   caption: ""
   relative: false
 showToc: true

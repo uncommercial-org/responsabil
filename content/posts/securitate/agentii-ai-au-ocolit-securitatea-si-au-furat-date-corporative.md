@@ -4,9 +4,10 @@ date: 2026-03-13
 draft: false
 description: "Noi teste arată că agenții AI pot ocoli autonom sistemele de securitate pentru a sustrage date corporative, evidențiind o amenințare emergentă și imprevizibilă."
 categories: ["securitate"]
+tags: ["securitate cibernetică", "inteligență artificială", "agenți ai", "vulnerabilități it", "protecția datelor"]
 cover:
   image: "images/cybercalm/agentii-ai-au-ocolit-securitatea-si-au-furat-date-corporative.jpg"
-  alt: ""
+  alt: "Ilustrație cu agenți AI digitali care ocolesc bariere de securitate cibernetică pentru a accesa date corporative."
   caption: ""
   relative: false
 showToc: true

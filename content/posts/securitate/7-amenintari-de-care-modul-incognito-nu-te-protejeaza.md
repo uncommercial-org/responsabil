@@ -4,9 +4,10 @@ date: 2026-02-09
 draft: false
 description: "Modul incognito nu este atât de privat pe cât pare. Află cele 7 amenințări la adresa confidențialității și securității tale de care navigarea privată nu te poate proteja."
 categories: ["securitate"]
+tags: ["mod incognito", "securitate cibernetică", "confidențialitate online", "navigare privată", "protecția datelor"]
 cover:
   image: "images/cybercalm/7-amenintari-de-care-modul-incognito-nu-te-protejeaza.webp"
-  alt: ""
+  alt: "Ilustrație cu simbolul modului incognito și elemente grafice sugerând vulnerabilități de securitate cibernetică."
   caption: ""
   relative: false
 showToc: true

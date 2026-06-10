@@ -1,0 +1,16 @@
+{{- /*
+  "Articole similare" — related posts based on Hugo's [related] config (tags,
+  categories, date). Strengthens internal linking, crawl depth and topical
+  clustering for search engines and LLMs. Renders nothing if no matches.
+*/ -}}
+{{- $related := site.RegularPages.Related . | first 4 -}}
+{{- with $related }}
+<div class="related-posts">
+  <h3>Articole similare</h3>
+  <ul>
+    {{- range . }}
+    <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+    {{- end }}
+  </ul>
+</div>
+{{- end }}

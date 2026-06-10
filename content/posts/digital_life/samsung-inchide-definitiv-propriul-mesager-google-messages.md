@@ -4,9 +4,10 @@ date: 2026-04-06
 draft: false
 description: "Samsung a anunțat oficial încetarea suportului pentru aplicația Samsung Messages. Utilizatorii sunt sfătuiți să treacă la Google Messages până în iulie 2026."
 categories: ["digital_life"]
+tags: ["samsung", "google messages", "rcs", "smartphone galaxy", "mesagerie", "aplicații mobile"]
 cover:
   image: "images/cybercalm/samsung-inchide-definitiv-propriul-mesager-google-messages.png"
-  alt: ""
+  alt: "Logourile Samsung Messages și Google Messages pe ecranul unui smartphone Galaxy."
   caption: ""
   relative: false
 showToc: true

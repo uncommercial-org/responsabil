@@ -4,9 +4,10 @@ date: 2026-04-22
 draft: false
 description: "Meta a început testarea WhatsApp Plus, un abonament plătit cu funcții de personalizare. Află detalii despre prețuri, noile opțiuni premium și ce rămâne gratuit în aplicație."
 categories: ["securitate"]
+tags: ["whatsapp plus", "meta", "abonament whatsapp", "tehnologie", "funcții premium"]
 cover:
   image: "images/cybercalm/meta-testeaza-abonamentul-platit-whatsapp-plus-ce-primesc-abonatii-si-cat-costa.jpg"
-  alt: ""
+  alt: "Logo WhatsApp pe un ecran de smartphone sugerând noul abonament WhatsApp Plus și funcții premium."
   caption: ""
   relative: false
 showToc: true

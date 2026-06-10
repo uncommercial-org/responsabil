@@ -4,9 +4,10 @@ date: 2026-03-27
 draft: false
 description: "Învață cum să creezi un cont de oaspete securizat în Windows pentru a-ți proteja datele și setările personale atunci când alte persoane îți folosesc computerul."
 categories: ["digital_life"]
+tags: ["cont oaspete windows", "securitate pc", "tutorial windows", "gestionare utilizatori", "confidențialitate date"]
 cover:
   image: "images/cybercalm/cum-sa-configurezi-un-cont-de-oaspete-securizat-pe-windows.webp"
-  alt: ""
+  alt: "Ilustrație cu interfața setărilor Windows pentru configurarea unui cont de oaspete securizat pe computer."
   caption: ""
   relative: false
 showToc: true

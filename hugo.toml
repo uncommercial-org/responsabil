@@ -11,18 +11,45 @@ hasCJKLanguage = false
   pagerSize = 10
   path = 'pagina'
 
+# Powers the "Articole similare" (related posts) block on single posts.
+# Relies on tags/categories — see Phase 2 (tags backfill + auto-generation).
+[related]
+  includeNewer = true
+  threshold = 20
+  toLower = true
+  [[related.indices]]
+    name = "tags"
+    weight = 100
+  [[related.indices]]
+    name = "categories"
+    weight = 50
+  [[related.indices]]
+    name = "date"
+    weight = 10
+
 [module]
   [[module.imports]]
     path = "github.com/adityatelange/hugo-PaperMod"
 
 [outputs]
-  home = ["HTML", "RSS", "JSON"]
+  home = ["HTML", "RSS", "JSON", "LLMS"]
+
+# Emits /llms.txt — a Markdown index for LLM crawlers (rendered by layouts/index.llms.txt).
+[outputFormats.LLMS]
+  mediaType = "text/plain"
+  baseName = "llms"
+  isPlainText = true
+  rel = "alternate"
+  notAlternative = true
 
 [params]
   env = "production"
   title = "Responsabil"
-  description = "Sursa ta de știri despre securitate cibernetică în limba română. Află cum să te protejezi pe internet, sfaturi utile și noutăți IT pentru siguranța ta digitală în era AI."
+  description = "Sursa ta de știri despre securitate cibernetică în limba română, pentru cititorii din România și Republica Moldova. Află cum să te protejezi pe internet, sfaturi practice și noutăți IT pentru siguranța ta digitală în era AI."
   author = "Eugene Melnic"
+  homeTitle = "Responsabil - Securitate cibernetică în limba română (România și Republica Moldova)"
+  keywords = ["securitate cibernetică", "securitate cibernetică în limba română", "protecție online", "phishing", "fraudă online", "știri IT România", "știri IT Moldova", "siguranță digitală", "responsabilitate online"]
+  images = ["images/og-default.png"]
   defaultTheme = "auto"
   disableThemeToggle = false
   ShowShareButtons = true
@@ -44,7 +71,7 @@ hasCJKLanguage = false
 
   [params.homeInfoParams]
     Title = "Responsabil"
-    Content = "Sursa ta de știri despre securitate cibernetică în limba română. Află cum să te protejezi pe internet, sfaturi utile și noutăți IT pentru siguranța ta digitală în era AI."
+    Content = "Sursa ta de știri despre securitate cibernetică în limba română, pentru cititorii din România și Republica Moldova. Află cum să te protejezi pe internet, sfaturi practice și noutăți IT pentru siguranța ta digitală în era AI."
 
   [params.profileMode]
     enabled = false
@@ -75,6 +102,21 @@ hasCJKLanguage = false
     minMatchCharLength = 0
     limit = 10
     keys = ["title", "permalink", "summary", "content"]
+
+  # Google Tag Manager container — the single entry point for all analytics
+  # (GA4 is configured as a tag inside GTM, not loaded separately).
+  [params.analytics.gtm]
+    id = "GTM-WD5C4PC3"
+
+  # --- Structured data (JSON-LD) settings, consumed by the vendored schema_json.html ---
+  [params.schema]
+    publisherType = "Organization"
+    logo = "images/og-default.png"
+    logoWidth = 512
+    logoHeight = 512
+    sameAs = ["https://github.com/uncommercial-org/responsabil"]
+    areaServed = ["RO", "MD"]
+    authorURL = "pages/author/eugene-melnic/"
 
 [markup]
   [markup.goldmark]

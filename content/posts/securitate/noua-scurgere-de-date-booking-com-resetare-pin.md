@@ -4,9 +4,10 @@ date: 2026-04-14
 draft: false
 description: "Booking.com a confirmat un incident cibernetic: atacatorii au accesat datele utilizatorilor, forțând compania să reseteze codurile PIN pentru rezervările active și finalizate."
 categories: ["securitate"]
+tags: ["booking.com", "scurgere de date", "securitate cibernetică", "protecția datelor", "phishing"]
 cover:
   image: "images/cybercalm/noua-scurgere-de-date-booking-com-resetare-pin.webp"
-  alt: ""
+  alt: "Sigla Booking.com pe un ecran digital cu simboluri de securitate cibernetică și avertizări de date compromise."
   caption: ""
   relative: false
 showToc: true

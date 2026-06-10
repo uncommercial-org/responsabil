@@ -4,9 +4,10 @@ date: 2026-03-15
 draft: false
 description: "Microsoft a lansat actualizarea KB5084597 pentru Windows 11 Enterprise, rezolvând vulnerabilități critice în serviciul RRAS prin tehnologia hotpatch, fără a necesita repornirea sistemului."
 categories: ["securitate"]
+tags: ["microsoft", "windows 11", "securitate cibernetică", "actualizare windows", "hotpatch", "vulnerabilitate"]
 cover:
   image: "images/cybercalm/microsoft-lansat-actualizare-urgenta-windows-11-enterprise-hotpatch.png"
-  alt: ""
+  alt: "Logo-ul Windows 11 și un scut digital reprezentând o actualizare de securitate de urgență tip hotpatch."
   caption: ""
   relative: false
 showToc: true

@@ -4,9 +4,10 @@ date: 2026-03-11
 draft: false
 description: "Aflați de ce tehnologia cheilor de acces (passkeys) întâmpină dificultăți în a înlocui parolele tradiționale, în ciuda avantajelor sale de securitate și confort."
 categories: ["securitate"]
+tags: ["chei de acces", "parole", "securitate cibernetică", "autentificare", "tehnologie", "passkeys"]
 cover:
   image: "images/cybercalm/chei-de-acces-versus-parole-de-ce-noua-tehnologie-pierde-in-fata-obisnuintei.webp"
-  alt: ""
+  alt: "Ilustrație grafică reprezentând contrastul dintre parolele tradiționale și noile chei de acces digitale."
   caption: ""
   relative: false
 showToc: true

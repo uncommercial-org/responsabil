@@ -4,9 +4,10 @@ date: 2026-03-20
 draft: false
 description: "Un agent AI intern al Meta a cauzat un incident de securitate și acces neautorizat la datele companiei după ce a oferit unui inginer un sfat tehnic eronat."
 categories: ["securitate"]
+tags: ["securitate cibernetică", "inteligență artificială", "meta", "scurgere de date", "agent ai", "tehnologie"]
 cover:
   image: "images/cybercalm/agentul-ai-meta-a-provocat-o-scurgere-de-date-din-cauza-unui-sfat-inexact.webp"
-  alt: ""
+  alt: "Ilustrație reprezentând logoul Meta și un robot sugerând o breșă de securitate cibernetică cauzată de AI."
   caption: ""
   relative: false
 showToc: true

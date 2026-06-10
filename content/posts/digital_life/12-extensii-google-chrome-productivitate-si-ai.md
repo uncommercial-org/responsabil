@@ -4,9 +4,10 @@ date: 2026-05-19
 draft: false
 description: "Descoperă 12 extensii esențiale pentru Google Chrome care utilizează inteligența artificială și instrumente de productivitate pentru a vă eficientiza munca și a economisi timp."
 categories: ["digital_life"]
+tags: ["extensii google chrome", "productivitate", "inteligență artificială", "asistenți ai", "tehnologie"]
 cover:
   image: "images/cybercalm/12-extensii-google-chrome-productivitate-si-ai.jpg"
-  alt: ""
+  alt: "Ilustrație cu logo-ul Google Chrome și elemente de inteligență artificială pentru productivitate digitală."
   caption: ""
   relative: false
 showToc: true

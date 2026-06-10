@@ -1,0 +1,31 @@
+{{- /* /llms.txt — concise, link-rich index for LLM crawlers. https://llmstxt.org/ */ -}}
+# {{ site.Title }}
+
+> {{ site.Params.description }}
+
+Proiect non-comercial de educație în securitate cibernetică în limba română,
+pentru cititorii din România și Republica Moldova. Articolele traduc subiecte
+tehnice complexe în sfaturi practice pentru utilizatorii obișnuiți.
+
+- Limbă: română (ro-RO, ro-MD)
+- Autor: {{ site.Params.author }}
+- Contact: responsabil@uncommercial.org
+- Feed: {{ "index.xml" | absURL }}
+
+## Secțiuni
+{{ range where site.Sections "Type" "posts" }}
+- [{{ .Title }}]({{ .Permalink }}): {{ .Description }}
+{{- end }}
+{{- range site.Sections }}{{ if eq .Type "posts" }}{{ range .Sections }}
+- [{{ .Title }}]({{ .Permalink }}): {{ .Description }}
+{{- end }}{{ end }}{{ end }}
+
+## Articole recente
+{{ range first 30 (where site.RegularPages "Section" "posts") }}
+- [{{ .Title }}]({{ .Permalink }}){{ with .Description }}: {{ . }}{{ end }}
+{{- end }}
+
+## Pagini
+- [Despre]({{ "pages/about/" | absURL }})
+- [Autor: {{ site.Params.author }}]({{ "pages/author/eugene-melnic/" | absURL }})
+- [Politica de confidențialitate]({{ "pages/privacy-policy/" | absURL }})

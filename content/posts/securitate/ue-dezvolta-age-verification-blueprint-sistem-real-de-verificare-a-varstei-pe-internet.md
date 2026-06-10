@@ -4,9 +4,10 @@ date: 2026-04-09
 draft: false
 description: "UE pregătește Age Verification Blueprint, un portofel digital pentru verificarea vârstei online fără a dezvălui identitatea, înlocuind simplele butoane de confirmare a vârstei."
 categories: ["securitate"]
+tags: ["ue", "verificare vârstă", "portofel digital", "dsa", "securitate online", "identitate digitală"]
 cover:
   image: "images/cybercalm/ue-dezvolta-age-verification-blueprint-sistem-real-de-verificare-a-varstei-pe-internet.webp"
-  alt: ""
+  alt: "Ilustrație a unui smartphone afișând un certificat digital de verificare a vârstei pentru navigare sigură pe internet."
   caption: ""
   relative: false
 showToc: true

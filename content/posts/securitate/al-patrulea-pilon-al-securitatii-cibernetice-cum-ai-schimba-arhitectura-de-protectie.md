@@ -4,9 +4,10 @@ date: 2026-03-11
 draft: false
 description: "Descoperiți cum inteligența artificială și securitatea API devin noul pilon al securității cibernetice, transformând modul în care organizațiile își protejează datele și infrastructura."
 categories: ["securitate"]
+tags: ["securitate cibernetică", "inteligență artificială", "securitate api", "agenți autonomi", "tehnologie"]
 cover:
   image: "images/cybercalm/al-patrulea-pilon-al-securitatii-cibernetice-cum-ai-schimba-arhitectura-de-protectie.webp"
-  alt: ""
+  alt: "Ilustrație conceptuală despre inteligența artificială și securitatea API ca nou pilon de protecție cibernetică."
   caption: ""
   relative: false
 showToc: true

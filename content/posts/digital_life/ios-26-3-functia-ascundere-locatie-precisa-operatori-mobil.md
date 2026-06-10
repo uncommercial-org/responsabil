@@ -4,9 +4,10 @@ date: 2026-02-04
 draft: false
 description: "Apple pregătește iOS 26.3 cu noua funcție Limit Precise Location, oferind utilizatorilor iPhone mai mult control asupra datelor de geolocație partajate cu operatorii de telefonie mobilă."
 categories: ["digital_life"]
+tags: ["ios 26.3", "securitate iphone", "confidențialitate apple", "protecție date", "operatori telefonie"]
 cover:
   image: "images/cybercalm/ios-26-3-functia-ascundere-locatie-precisa-operatori-mobil.webp"
-  alt: ""
+  alt: "Ecran de iPhone afișând setările de limitare a locației precise pentru operatorii de telefonie în iOS 26.3."
   caption: ""
   relative: false
 showToc: true

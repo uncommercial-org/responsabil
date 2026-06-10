@@ -4,9 +4,10 @@ date: 2026-04-21
 draft: false
 description: "Apple a anunțat că Tim Cook se retrage din funcția de CEO după 14 ani, fiind înlocuit de John Ternus. Cook va deveni președinte executiv al consiliului de administrație din septembrie 2026."
 categories: ["digital_life"]
+tags: ["apple", "tim cook", "john ternus", "ceo apple", "tehnologie"]
 cover:
   image: "images/cybercalm/tim-cook-paraseste-functia-de-ceo-apple-john-ternus-succesor.jpg"
-  alt: ""
+  alt: "Tim Cook și John Ternus într-o imagine reprezentativă pentru schimbarea conducerii executive la Apple."
   caption: ""
   relative: false
 showToc: true

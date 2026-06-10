@@ -4,9 +4,10 @@ date: 2026-04-17
 draft: false
 description: "Aflați ce este un backdoor, cum a evoluat de la experimente academice la arme cibernetice de stat și cum să vă protejați sistemele împotriva acestor amenințări digitale ascunse."
 categories: ["securitate"]
+tags: ["securitate cibernetică", "backdoor", "vulnerabilități", "protecție date", "amenințări digitale"]
 cover:
   image: "images/cybercalm/backdoor-intrarea-ascunsa-pe-care-nu-o-vezi-dar-care-te-vede-pe-tine.webp"
-  alt: ""
+  alt: "Ilustrație cu o ușă ascunsă într-un perete digital, reprezentând accesul neautorizat de tip backdoor."
   caption: ""
   relative: false
 showToc: true

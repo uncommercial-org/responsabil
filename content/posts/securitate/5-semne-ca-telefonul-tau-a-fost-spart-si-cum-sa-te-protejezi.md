@@ -4,9 +4,10 @@ date: 2026-03-26
 draft: false
 description: "Descoperă 5 semne clare că telefonul tău a fost compromis de hackeri și învață cum să folosești codurile USSD pentru a verifica redirecționările de apeluri și a-ți securiza datele."
 categories: ["securitate"]
+tags: ["securitate cibernetică", "hackeri telefon", "protecție date", "telefon spart", "securitate mobilă"]
 cover:
   image: "images/cybercalm/5-semne-ca-telefonul-tau-a-fost-spart-si-cum-sa-te-protejezi.webp"
-  alt: ""
+  alt: "Smartphone cu pictograme de securitate și avertizare, ilustrând riscurile de piratare a datelor personale."
   caption: ""
   relative: false
 showToc: true

@@ -4,9 +4,10 @@ date: 2026-03-30
 draft: false
 description: "Sondajele online sunt tot mai des ținta manipulărilor cu IA. Un caz recent din Marea Britanie demonstrează cum datele falsificate pot crea narațiuni sociale eronate."
 categories: ["securitate"]
+tags: ["inteligență artificială", "sondaje online", "manipulare date", "securitate cibernetică", "dezinformare", "sociologie"]
 cover:
   image: "images/cybercalm/cum-falsifica-inteligenta-artificiala-rezultatele-sondajelor-sociologice.jpg"
-  alt: ""
+  alt: "Ilustrație digitală reprezentând un sondaj online manipulat de roboți și inteligență artificială."
   caption: ""
   relative: false
 showToc: true

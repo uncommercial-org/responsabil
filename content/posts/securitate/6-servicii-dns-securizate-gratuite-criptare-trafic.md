@@ -4,9 +4,10 @@ date: 2026-03-23
 draft: false
 description: "Află cum să îți protejezi confidențialitatea online folosind servicii DNS securizate. Ghid pas cu pas pentru configurarea Google, Cloudflare, Quad9 și altele."
 categories: ["securitate"]
+tags: ["dns securizat", "criptare trafic", "securitate cibernetică", "confidențialitate online", "servicii dns gratuite"]
 cover:
   image: "images/cybercalm/6-servicii-dns-securizate-gratuite-criptare-trafic.jpg"
-  alt: ""
+  alt: "Ilustrație cu un scut digital protejând conexiuni web pentru a reprezenta serviciile DNS securizate și criptate."
   caption: ""
   relative: false
 showToc: true

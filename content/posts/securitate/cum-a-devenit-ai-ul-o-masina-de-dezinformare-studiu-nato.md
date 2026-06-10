@@ -4,9 +4,10 @@ date: 2026-04-14
 draft: false
 description: "Un raport al Centrului NATO StratCom COE avertizează despre evoluția IA în sisteme capabile să orchestreze campanii de dezinformare autonome, depășind capacitățile de apărare actuale."
 categories: ["securitate"]
+tags: ["inteligență artificială", "dezinformare", "studiu nato", "securitate cibernetică", "llm", "propaganda digitală"]
 cover:
   image: "images/cybercalm/cum-a-devenit-ai-ul-o-masina-de-dezinformare-studiu-nato.webp"
-  alt: ""
+  alt: "Ilustrație conceptuală despre inteligența artificială utilizată pentru propagarea dezinformării online."
   caption: ""
   relative: false
 showToc: true

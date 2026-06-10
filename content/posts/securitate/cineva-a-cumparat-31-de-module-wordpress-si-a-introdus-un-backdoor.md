@@ -4,9 +4,10 @@ date: 2026-04-16
 draft: false
 description: "Un atacator necunoscut a achiziționat 31 de module WordPress populare și a introdus un backdoor activat după 8 luni. WordPress.org a eliminat toate modulele afectate."
 categories: ["securitate"]
+tags: ["wordpress", "securitate cibernetică", "module wordpress", "backdoor", "atac cibernetic"]
 cover:
   image: "images/cybercalm/cineva-a-cumparat-31-de-module-wordpress-si-a-introdus-un-backdoor.webp"
-  alt: ""
+  alt: "Ilustrație despre securitatea WordPress: 31 de module compromise cu un backdoor după achiziția de către un atacator."
   caption: ""
   relative: false
 showToc: true

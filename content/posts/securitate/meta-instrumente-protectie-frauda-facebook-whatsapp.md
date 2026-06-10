@@ -4,9 +4,10 @@ date: 2026-03-12
 draft: false
 description: "Meta extinde instrumentele bazate pe IA pentru a combate fraudele pe Facebook, Messenger și WhatsApp, detectând automat activitățile suspecte și paginile false."
 categories: ["securitate"]
+tags: ["securitate cibernetică", "meta", "protecție fraudă", "facebook", "whatsapp", "inteligență artificială"]
 cover:
   image: "images/cybercalm/meta-instrumente-protectie-frauda-facebook-whatsapp.webp"
-  alt: ""
+  alt: "Logo-urile Facebook și WhatsApp alături de elemente de securitate cibernetică și inteligență artificială."
   caption: ""
   relative: false
 showToc: true

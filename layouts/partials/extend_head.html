@@ -1,0 +1,21 @@
+{{- /*
+  Custom <head> additions, injected by PaperMod's head.html hook.
+
+  Regional targeting for Romania + Moldova WITHOUT duplicating pages:
+  one Romanian site serves both markets, so every hreflang variant points at
+  the same canonical URL. x-default tells Google which URL to fall back to.
+  PaperMod already emits hreflang="ro" from .AllTranslations.
+*/ -}}
+<link rel="alternate" hreflang="ro-RO" href="{{ .Permalink }}">
+<link rel="alternate" hreflang="ro-MD" href="{{ .Permalink }}">
+<link rel="alternate" hreflang="x-default" href="{{ .Permalink }}">
+
+{{- /* Geo signals: this publication serves both Romania and Moldova. */}}
+<meta name="geo.region" content="RO">
+<meta name="geo.region" content="MD">
+<meta name="geo.placename" content="România, Republica Moldova">
+
+{{- /* Speed up the Google Tag Manager connection when analytics is enabled. */}}
+{{- if site.Params.analytics.gtm.id }}
+<link rel="preconnect" href="https://www.googletagmanager.com" crossorigin>
+{{- end }}

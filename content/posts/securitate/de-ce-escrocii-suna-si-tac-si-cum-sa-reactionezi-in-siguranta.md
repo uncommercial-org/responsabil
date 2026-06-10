@@ -4,9 +4,10 @@ date: 2026-03-02
 draft: false
 description: "Află de ce primești apeluri mute de la numere necunoscute și cum te poți proteja împotriva tacticilor de recunoaștere ale escrocilor."
 categories: ["securitate"]
+tags: ["securitate cibernetică", "fraude telefonice", "apeluri spam", "vishing", "siguranță online"]
 cover:
   image: "images/cybercalm/de-ce-escrocii-suna-si-tac-si-cum-sa-reactionezi-in-siguranta.webp"
-  alt: ""
+  alt: "O persoană care privește suspicios ecranul unui smartphone ce afișează un apel de la un număr necunoscut."
   caption: ""
   relative: false
 showToc: true

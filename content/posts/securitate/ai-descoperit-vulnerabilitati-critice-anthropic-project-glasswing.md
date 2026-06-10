@@ -4,9 +4,10 @@ date: 2026-04-09
 draft: false
 description: "Anthropic lansează Project Glasswing, o inițiativă de securitate cibernetică ce utilizează AI-ul Claude Mythos Preview pentru a identifica mii de vulnerabilități critice în software-ul global."
 categories: ["securitate"]
+tags: ["securitate cibernetică", "inteligență artificială", "anthropic claude", "vulnerabilități zero-day", "project glasswing", "siguranță software"]
 cover:
   image: "images/cybercalm/ai-descoperit-vulnerabilitati-critice-anthropic-project-glasswing.webp"
-  alt: ""
+  alt: "Vizualizare simbolică a inteligenței artificiale Anthropic detectând vulnerabilități în codul sistemelor de operare."
   caption: ""
   relative: false
 showToc: true

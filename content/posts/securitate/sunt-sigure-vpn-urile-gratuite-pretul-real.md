@@ -4,9 +4,10 @@ date: 2026-03-18
 draft: false
 description: "Experții explică riscurile utilizării VPN-urilor gratuite: de la colectarea datelor și malware, până la breșe de securitate. Află care sunt alternativele sigure și prețul real al gratuității."
 categories: ["securitate"]
+tags: ["vpn gratuit", "securitate cibernetică", "confidențialitate online", "protecția datelor", "riscuri vpn"]
 cover:
   image: "images/cybercalm/sunt-sigure-vpn-urile-gratuite-pretul-real.webp"
-  alt: ""
+  alt: "Imagine conceptuală despre securitatea datelor și riscurile utilizării serviciilor VPN gratuite pe internet."
   caption: ""
   relative: false
 showToc: true

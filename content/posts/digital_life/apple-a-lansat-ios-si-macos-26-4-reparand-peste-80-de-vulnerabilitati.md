@@ -4,9 +4,10 @@ date: 2026-03-25
 draft: false
 description: "Apple a lansat actualizări de securitate pentru iOS, iPadOS și macOS, eliminând peste 80 de vulnerabilități în diverse componente, inclusiv WebKit și kernel."
 categories: ["digital_life"]
+tags: ["apple", "securitate cibernetică", "ios 26.4", "macos tahoe", "actualizări securitate", "vulnerabilități"]
 cover:
   image: "images/cybercalm/apple-a-lansat-ios-si-macos-26-4-reparand-peste-80-de-vulnerabilitati.jpg"
-  alt: ""
+  alt: "Ilustrație cu logo-ul Apple și text despre actualizările de securitate pentru sistemele iOS și macOS."
   caption: ""
   relative: false
 showToc: true

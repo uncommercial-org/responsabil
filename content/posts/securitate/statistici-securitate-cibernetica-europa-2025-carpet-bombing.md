@@ -4,9 +4,10 @@ date: 2026-03-05
 draft: false
 description: "În 2025, deși numărul total de atacuri DDoS a scăzut, complexitatea și puterea acestora, în special a atacurilor de tip „carpet bombing”, au crescut semnificativ în Europa."
 categories: ["securitate"]
+tags: ["securitate cibernetică", "atacuri ddos", "carpet bombing", "legislație nis2", "tendințe it 2025"]
 cover:
   image: "images/cybercalm/statistici-securitate-cibernetica-europa-2025-carpet-bombing.jpg"
-  alt: ""
+  alt: "Reprezentare grafică a fluxurilor de date digitale și protecția infrastructurii IT împotriva atacurilor cibernetice."
   caption: ""
   relative: false
 showToc: true

@@ -4,9 +4,10 @@ date: 2026-05-06
 draft: false
 description: "Află de ce vibrațiile intense ale motoarelor pot scoate din funcțiune stabilizarea optică (OIS) a camerei iPhone sau Android și cum să îți protejezi dispozitivul."
 categories: ["digital_life"]
+tags: ["smartphone", "camera foto", "vibratii", "motocicleta", "iphone", "sfaturi tech"]
 cover:
   image: "images/cybercalm/vibratii-motocicleta-camera-smartphone-deteriorare.webp"
-  alt: ""
+  alt: "Smartphone montat pe ghidonul unei motociclete, ilustrând riscul de deteriorare a camerei din cauza vibrațiilor."
   caption: ""
   relative: false
 showToc: true

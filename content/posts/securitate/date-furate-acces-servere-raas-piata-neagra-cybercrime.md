@@ -4,9 +4,10 @@ date: 2026-05-26
 draft: false
 description: "O analiză a economiei subterane a criminalității cibernetice în 2025: prețurile datelor furate pe Dark Web, modelul Cybercrime-as-a-Service și cum să vă protejați identitatea digitală."
 categories: ["securitate"]
+tags: ["securitate cibernetică", "criminalitate cibernetică", "date furate", "piața neagră", "ransomware", "dark web"]
 cover:
   image: "images/cybercalm/date-furate-acces-servere-raas-piata-neagra-cybercrime.webp"
-  alt: ""
+  alt: "Reprezentare grafică a structurii pieței negre cibernetice cu servere și prețuri pentru date compromise."
   caption: ""
   relative: false
 showToc: true

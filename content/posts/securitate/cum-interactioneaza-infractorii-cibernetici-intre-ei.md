@@ -4,9 +4,10 @@ date: 2026-04-21
 draft: false
 description: "O privire detaliată asupra ecosistemului criminalității cibernetice: de la brokeri de acces la modelele de tip „as-a-service” și rolul AI sau Telegram în atacurile moderne."
 categories: ["securitate"]
+tags: ["securitate cibernetică", "criminalitate cibernetică", "ransomware", "hackeri", "atacuri cibernetice"]
 cover:
   image: "images/cybercalm/cum-interactioneaza-infractorii-cibernetici-intre-ei.webp"
-  alt: ""
+  alt: "Ilustrație digitală reprezentând rețeaua complexă a criminalității cibernetice și colaborarea între hackeri."
   caption: ""
   relative: false
 showToc: true

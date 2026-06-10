@@ -4,9 +4,10 @@ date: 2026-03-22
 draft: false
 description: "FBI avertizează despre campanii de phishing rusești care vizează utilizatorii Signal și WhatsApp pentru a fura conturi și a monitoriza comunicațiile private la nivel mondial."
 categories: ["securitate"]
+tags: ["securitate cibernetică", "phishing", "fbi", "whatsapp", "signal", "hackeri ruși"]
 cover:
   image: "images/cybercalm/fbi-avertizeaza-serviciile-secrete-rusesti-pirateaza-signal-whatsapp.webp"
-  alt: ""
+  alt: "Smartphone cu logourile Signal și WhatsApp sub alertă de securitate cibernetică din partea FBI."
   caption: ""
   relative: false
 showToc: true
