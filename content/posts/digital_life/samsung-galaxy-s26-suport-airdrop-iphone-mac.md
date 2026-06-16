@@ -6,7 +6,7 @@ description: "Samsung adaugă suport AirDrop pentru Galaxy S26, permițând tran
 categories: ["digital_life"]
 tags: ["samsung galaxy s26", "airdrop", "quick share", "transfer fișiere", "iphone", "tehnologie"]
 cover:
-  image: "images/cybercalm/samsung-galaxy-s26-suport-airdrop-iphone-mac.jpg"
+  image: "images/cybercalm/samsung-galaxy-s26-suport-airdrop-iphone-mac.webp"
   alt: "Ilustrație reprezentând transferul de fișiere prin AirDrop între un Samsung Galaxy S26 și un iPhone."
   caption: ""
   relative: false

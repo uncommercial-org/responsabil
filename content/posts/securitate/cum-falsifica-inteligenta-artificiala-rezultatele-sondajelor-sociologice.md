@@ -6,7 +6,7 @@ description: "Sondajele online sunt tot mai des ținta manipulărilor cu IA. Un 
 categories: ["securitate"]
 tags: ["inteligență artificială", "sondaje online", "manipulare date", "securitate cibernetică", "dezinformare", "sociologie"]
 cover:
-  image: "images/cybercalm/cum-falsifica-inteligenta-artificiala-rezultatele-sondajelor-sociologice.jpg"
+  image: "images/cybercalm/cum-falsifica-inteligenta-artificiala-rezultatele-sondajelor-sociologice.webp"
   alt: "Ilustrație digitală reprezentând un sondaj online manipulat de roboți și inteligență artificială."
   caption: ""
   relative: false

@@ -6,7 +6,7 @@ description: "OpenAI extinde Lockdown Mode pentru toți utilizatorii ChatGPT, of
 categories: ["securitate"]
 tags: ["openai", "chatgpt", "securitate cibernetica", "prompt injection", "protectia datelor", "lockdown mode"]
 cover:
-  image: "images/cybercalm/openai-lockdown-mode-chatgpt-protectie-prompt-injection.jpg"
+  image: "images/cybercalm/openai-lockdown-mode-chatgpt-protectie-prompt-injection.webp"
   alt: "Interfața ChatGPT afișând activarea funcției Lockdown Mode pentru securitate sporită împotriva atacurilor cibernetice."
   caption: ""
   relative: false

@@ -6,7 +6,7 @@ description: "Apple a anunțat că Tim Cook se retrage din funcția de CEO după
 categories: ["digital_life"]
 tags: ["apple", "tim cook", "john ternus", "ceo apple", "tehnologie"]
 cover:
-  image: "images/cybercalm/tim-cook-paraseste-functia-de-ceo-apple-john-ternus-succesor.jpg"
+  image: "images/cybercalm/tim-cook-paraseste-functia-de-ceo-apple-john-ternus-succesor.webp"
   alt: "Tim Cook și John Ternus într-o imagine reprezentativă pentru schimbarea conducerii executive la Apple."
   caption: ""
   relative: false

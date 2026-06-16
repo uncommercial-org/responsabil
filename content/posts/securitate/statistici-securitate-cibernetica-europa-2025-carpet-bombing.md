@@ -6,7 +6,7 @@ description: "În 2025, deși numărul total de atacuri DDoS a scăzut, complexi
 categories: ["securitate"]
 tags: ["securitate cibernetică", "atacuri ddos", "carpet bombing", "legislație nis2", "tendințe it 2025"]
 cover:
-  image: "images/cybercalm/statistici-securitate-cibernetica-europa-2025-carpet-bombing.jpg"
+  image: "images/cybercalm/statistici-securitate-cibernetica-europa-2025-carpet-bombing.webp"
   alt: "Reprezentare grafică a fluxurilor de date digitale și protecția infrastructurii IT împotriva atacurilor cibernetice."
   caption: ""
   relative: false

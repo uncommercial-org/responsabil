@@ -6,7 +6,7 @@ description: "Samsung a anunțat oficial încetarea suportului pentru aplicația
 categories: ["digital_life"]
 tags: ["samsung", "google messages", "rcs", "smartphone galaxy", "mesagerie", "aplicații mobile"]
 cover:
-  image: "images/cybercalm/samsung-inchide-definitiv-propriul-mesager-google-messages.png"
+  image: "images/cybercalm/samsung-inchide-definitiv-propriul-mesager-google-messages.webp"
   alt: "Logourile Samsung Messages și Google Messages pe ecranul unui smartphone Galaxy."
   caption: ""
   relative: false

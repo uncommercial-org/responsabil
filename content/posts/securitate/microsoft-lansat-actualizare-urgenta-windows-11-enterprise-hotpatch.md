@@ -6,7 +6,7 @@ description: "Microsoft a lansat actualizarea KB5084597 pentru Windows 11 Enterp
 categories: ["securitate"]
 tags: ["microsoft", "windows 11", "securitate cibernetică", "actualizare windows", "hotpatch", "vulnerabilitate"]
 cover:
-  image: "images/cybercalm/microsoft-lansat-actualizare-urgenta-windows-11-enterprise-hotpatch.png"
+  image: "images/cybercalm/microsoft-lansat-actualizare-urgenta-windows-11-enterprise-hotpatch.webp"
   alt: "Logo-ul Windows 11 și un scut digital reprezentând o actualizare de securitate de urgență tip hotpatch."
   caption: ""
   relative: false

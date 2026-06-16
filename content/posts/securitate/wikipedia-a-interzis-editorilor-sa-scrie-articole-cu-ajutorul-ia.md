@@ -4,9 +4,10 @@ date: 2026-03-27
 draft: false
 description: "Wikipedia și-a actualizat regulile editoriale, interzicând utilizarea inteligenței artificiale pentru scrierea sau rescrierea articolelor din cauza riscurilor de dezinformare."
 categories: ["securitate"]
+tags: ["wikipedia", "inteligență artificială", "reguli editoriale", "conținut generat de ia", "llm", "tehnologie"]
 cover:
   image: "images/cybercalm/wikipedia-a-interzis-editorilor-sa-scrie-articole-cu-ajutorul-ia.webp"
-  alt: ""
+  alt: "Logo-ul Wikipedia și elemente grafice de inteligență artificială ilustrând noile interdicții pentru editori."
   caption: ""
   relative: false
 showToc: true

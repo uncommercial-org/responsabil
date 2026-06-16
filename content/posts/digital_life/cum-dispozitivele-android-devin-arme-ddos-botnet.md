@@ -6,7 +6,7 @@ description: "În 2025, botneturile Android precum Aisuru-Kimwolf și BadBox 2.0
 categories: ["digital_life"]
 tags: ["atacuri ddos", "securitate android", "botnet", "securitate cibernetică", "malware", "dispozitive mobile"]
 cover:
-  image: "images/cybercalm/cum-dispozitivele-android-devin-arme-ddos-botnet.jpg"
+  image: "images/cybercalm/cum-dispozitivele-android-devin-arme-ddos-botnet.webp"
   alt: "Ilustrație cu logo-ul Android și conexiuni digitale reprezentând o rețea botnet pentru atacuri DDoS."
   caption: ""
   relative: false

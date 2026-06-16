@@ -4,9 +4,10 @@ date: 2026-03-03
 draft: false
 description: "Cercetătorii au descoperit o vulnerabilitate în Chrome care, prin Gemini, permite extensiilor malițioase să fure date și să acceseze camera/microfonul. Actualizați browserul imediat."
 categories: ["securitate"]
+tags: ["securitate cibernetică", "vulnerabilitate chrome", "google gemini", "extensii malițioase", "protecție date"]
 cover:
   image: "images/cybercalm/vulnerabilitate-critica-chrome-extensii-malitioase-gemini.webp"
-  alt: ""
+  alt: "Ilustrație cu logo-ul Google Chrome și interfața Gemini, simbolizând o vulnerabilitate de securitate cibernetică."
   caption: ""
   relative: false
 showToc: true

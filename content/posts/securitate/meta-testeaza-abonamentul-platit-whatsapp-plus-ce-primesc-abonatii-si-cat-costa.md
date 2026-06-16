@@ -6,7 +6,7 @@ description: "Meta a început testarea WhatsApp Plus, un abonament plătit cu fu
 categories: ["securitate"]
 tags: ["whatsapp plus", "meta", "abonament whatsapp", "tehnologie", "funcții premium"]
 cover:
-  image: "images/cybercalm/meta-testeaza-abonamentul-platit-whatsapp-plus-ce-primesc-abonatii-si-cat-costa.jpg"
+  image: "images/cybercalm/meta-testeaza-abonamentul-platit-whatsapp-plus-ce-primesc-abonatii-si-cat-costa.webp"
   alt: "Logo WhatsApp pe un ecran de smartphone sugerând noul abonament WhatsApp Plus și funcții premium."
   caption: ""
   relative: false

@@ -6,7 +6,7 @@ description: "Meta elimină criptarea end-to-end (E2EE) din Instagram Direct dup
 categories: ["securitate"]
 tags: ["instagram", "criptare end-to-end", "securitate cibernetică", "meta", "confidențialitate", "mesaje directe"]
 cover:
-  image: "images/cybercalm/instagram-elimina-criptarea-end-to-end-ce-inseamna-pentru-utilizatori.jpg"
+  image: "images/cybercalm/instagram-elimina-criptarea-end-to-end-ce-inseamna-pentru-utilizatori.webp"
   alt: "Ilustrație cu logo-ul Instagram și un lacăt desfăcut, simbolizând eliminarea criptării mesajelor."
   caption: ""
   relative: false

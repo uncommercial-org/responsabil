@@ -6,7 +6,7 @@ description: "Apple a lansat actualizări de securitate pentru iOS, iPadOS și m
 categories: ["digital_life"]
 tags: ["apple", "securitate cibernetică", "ios 26.4", "macos tahoe", "actualizări securitate", "vulnerabilități"]
 cover:
-  image: "images/cybercalm/apple-a-lansat-ios-si-macos-26-4-reparand-peste-80-de-vulnerabilitati.jpg"
+  image: "images/cybercalm/apple-a-lansat-ios-si-macos-26-4-reparand-peste-80-de-vulnerabilitati.webp"
   alt: "Ilustrație cu logo-ul Apple și text despre actualizările de securitate pentru sistemele iOS și macOS."
   caption: ""
   relative: false

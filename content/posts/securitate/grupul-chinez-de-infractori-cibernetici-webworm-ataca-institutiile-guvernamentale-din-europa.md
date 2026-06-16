@@ -6,7 +6,7 @@ description: "ESET avertizează că grupul APT Webworm, legat de China, își ex
 categories: ["securitate"]
 tags: ["webworm", "securitate cibernetică", "atacuri apt", "china", "spionaj cibernetic", "eset"]
 cover:
-  image: "images/cybercalm/grupul-chinez-de-infractori-cibernetici-webworm-ataca-institutiile-guvernamentale-din-europa.jpeg"
+  image: "images/cybercalm/grupul-chinez-de-infractori-cibernetici-webworm-ataca-institutiile-guvernamentale-din-europa.webp"
   alt: "Reprezentare grafică a unui atac cibernetic coordonat de grupul Webworm asupra instituțiilor guvernamentale din Europa."
   caption: ""
   relative: false
