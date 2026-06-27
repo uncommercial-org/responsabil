@@ -30,12 +30,12 @@ Un detaliu important: atacatorul nu trebuie să fie la computerul tău sau în a
 
 ### **Atacul clasic: Wi-Fi fals și spoofing**
 
-Cel mai cunoscut scenariu este Wi-Fi-ul public în locuri aglomerate. Oamenii văd „Wi-Fi gratuit” și se conectează fără să se gândească cine este în spate. Crearea unui punct de acces fals este mai simplă decât pare: atacatorul dă rețelei un nume similar cu cel al locației, o lasă fără parolă și, imediat ce te-ai conectat, are acces la traficul tău. [Aeroporturile, cafenelele și bibliotecile](https://cybercalm.org/yak-bezpechno-korystuvatysya-publichnym-wi-fi-porady-dlya-zahystu-vashyh-danyh/) sunt locuri tipice pentru astfel de puncte de acces.
+Cel mai cunoscut scenariu este Wi-Fi-ul public în locuri aglomerate. Oamenii văd „Wi-Fi gratuit” și se conectează fără să se gândească cine este în spate. Crearea unui punct de acces fals este mai simplă decât pare: atacatorul dă rețelei un nume similar cu cel al locației, o lasă fără parolă și, imediat ce te-ai conectat, are acces la traficul tău. Aeroporturile, cafenelele și bibliotecile sunt locuri tipice pentru astfel de puncte de acces.
 
 Metode mai active de intervenție în rețea:
 
 *   **ARP Spoofing** — atacatorul își asociază adresa cu cea a unui dispozitiv legitim din rețeaua locală, iar datele pe care le trimiți ajung la el.
-*   **DNS Spoofing** ([otrăvirea cache-ului](https://cybercalm.org/dns-cache-poisoning/)) — cererea pentru adresa unui site este deturnată, iar tu ajungi pe o copie controlată de atacator.
+*   **DNS Spoofing** (otrăvirea cache-ului) — cererea pentru adresa unui site este deturnată, iar tu ajungi pe o copie controlată de atacator.
 *   **IP Spoofing** — antetele pachetelor de rețea sunt modificate pentru a te redirecționa către o resursă străină.
 
 Vestea bună: acest tip de atacuri a slăbit considerabil. În trecut, o parte din web funcționa prin HTTP nesecurizat, astfel încât traficul putea fi citit ușor (SSL stripping). Astăzi, marea majoritate a site-urilor folosesc HTTPS, browserele avertizează despre conexiunile nesigure, iar tehnologii precum HSTS previn retrogradarea site-ului la HTTP.

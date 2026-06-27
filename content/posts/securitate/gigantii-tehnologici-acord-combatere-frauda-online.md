@@ -47,6 +47,6 @@ Administrația Trump a intensificat eforturile de combatere a rețelelor interna
 
 Escrocii acționează rar pe o singură platformă — de obicei, desfășoară aceeași operațiune prin mai multe profiluri online simultan. Pe rețelele sociale, ei scriu victimelor în mesaje private, iar în aplicațiile de întâlniri — găsesc utilizatori neatenți.
 
-Se așteaptă implementarea unor noi funcții de securitate menite să blocheze frauda, precum și intensificarea lobby-ului pentru reglementări mai stricte și acțiuni hotărâte ale organelor de aplicare a legii împotriva sindicatelor globale de fraudă. În special, în ultima săptămână, [Meta](https://cybercalm.org/meta-antiscam-facebook-ta-whatsapp/) și OpenAI au anunțat deja noi măsuri de combatere a fraudei — inclusiv noi funcții de securitate și parteneriate.
+Se așteaptă implementarea unor noi funcții de securitate menite să blocheze frauda, precum și intensificarea lobby-ului pentru reglementări mai stricte și acțiuni hotărâte ale organelor de aplicare a legii împotriva sindicatelor globale de fraudă. În special, în ultima săptămână, Meta și OpenAI au anunțat deja noi măsuri de combatere a fraudei — inclusiv noi funcții de securitate și parteneriate.
 
 Acest articol a fost publicat anterior pe site-ul [CyberCalm](https://cybercalm.org/coalitia-borotba-online-shakhraystvo/?utm_source=responsabil) și a fost tradus în limba română.
